@@ -3,7 +3,7 @@ variable "project" {
 }
  
 variable "environment" {   
-  type = string 
+  type = string  
 }
 
 variable "cidr_block" {
